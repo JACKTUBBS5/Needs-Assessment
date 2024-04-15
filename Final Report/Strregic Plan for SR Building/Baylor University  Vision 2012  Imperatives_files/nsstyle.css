@@ -1,0 +1,147 @@
+.default {
+	FONT-SIZE: 11px; FONT-FAMILY: verdana, arial, helvetica, sans-serif
+}
+P {
+	FONT-SIZE: 11px; FONT-FAMILY: verdana, arial, helvetica, sans-serif
+}
+TD {
+	FONT-SIZE: 11px; FONT-FAMILY: verdana, arial, helvetica, sans-serif
+}
+.verdana16 {
+	FONT-SIZE: 16px; FONT-FAMILY: verdana, arial, helvetica
+}
+.verdana14 {
+	FONT-SIZE: 14px; FONT-FAMILY: verdana, arial, helvetica
+}
+.verdana14g {
+	FONT-SIZE: 14px; COLOR: #ffcc99; FONT-FAMILY: verdana, arial, helvetica
+}
+.verdana12 {
+	FONT-SIZE: 12px; FONT-FAMILY: verdana, arial, helvetica
+}
+.verdana11 {
+	FONT-SIZE: 11px; FONT-FAMILY: verdana, arial, helvetica
+}
+.verdana10 {
+	FONT-SIZE: 11px; FONT-FAMILY: verdana, arial, helvetica
+}
+.verdana10dg {
+	FONT-SIZE: 10px; COLOR: #003300; FONT-FAMILY: verdana, arial, helvetica
+}
+.verdana10dg:hover {
+	FONT-SIZE: 10px; COLOR: #1a7a3a; FONT-FAMILY: verdana, arial, helvetica; TEXT-DECORATION: none
+}
+.verdana10g {
+	FONT-SIZE: 10px; COLOR: #ffcc66; FONT-FAMILY: verdana, arial, helvetica
+}
+.verdana9 {
+	FONT-SIZE: 10px; FONT-FAMILY: verdana, arial, helvetica
+}
+.arial14 {
+	FONT-SIZE: 14px; FONT-FAMILY: arial, helvetica
+}
+.arial13 {
+	FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica
+}
+.arial12 {
+	FONT-SIZE: 12px; FONT-FAMILY: arial, helvetica
+}
+.arial11 {
+	FONT-SIZE: 11px; FONT-FAMILY: arial, helvetica
+}
+.arial10 {
+	FONT-SIZE: 11px; FONT-FAMILY: arial, helvetica
+}
+A {
+	COLOR: #1a7a3a; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #1a7a3a; TEXT-DECORATION: underline
+}
+.cmsnav {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #ffffff; FONT-FAMILY: verdana, arial, helvetica; TEXT-DECORATION: none
+}
+.cmsnav:hover {
+	COLOR: #ffcc66; TEXT-DECORATION: none
+}
+A.whitelink {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.whitelink:hover {
+	COLOR: #ffffff; TEXT-DECORATION: underline
+}
+A.blacklink {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A.dkgreenlink {
+	COLOR: #003300; TEXT-DECORATION: none
+}
+A.greenlink {
+	COLOR: #339966
+}
+A.greenlink:hover {
+	COLOR: #339966
+}
+A.yellowlink {
+	COLOR: #ffcc66; TEXT-DECORATION: none
+}
+A.underline {
+	COLOR: #1a7a3a; TEXT-DECORATION: underline
+}
+.sidebar {
+	BACKGROUND-IMAGE: url(/images/sitewide/site_sidebarbg.gif)
+}
+.tablehead {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #ffffff; FONT-FAMILY: verdana, arial, helvetica
+}
+.PageHead {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: arial, helvetica; BACKGROUND-COLOR: #003300
+}
+.sectionhead {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: arial, helvetica; BACKGROUND-COLOR: #003300
+}
+.ToolBody {
+	BACKGROUND-COLOR: #ccd6cc
+}
+.ToolBtn {
+	BACKGROUND-COLOR: #b2c1b2
+}
+.ToolBtnON {
+	BACKGROUND-COLOR: #ffcc66
+}
+.AppBG {
+	BACKGROUND-COLOR: #fffaef
+}
+.AppBorder {
+	BACKGROUND-COLOR: #555555
+}
+.TableBody {
+	BACKGROUND-COLOR: #ffe0a3
+}
+.listhead {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: arial, helvetica; BACKGROUND-COLOR: #fed971
+}
+H1 {
+	FONT-SIZE: 16px; FONT-FAMILY: verdana, arial, helvetica
+}
+H2 {
+	FONT-SIZE: 14px; FONT-FAMILY: verdana, arial, helvetica
+}
+H3 {
+	FONT-SIZE: 12px; FONT-FAMILY: verdana, arial, helvetica
+}
+H4 {
+	FONT-SIZE: 11px; FONT-FAMILY: verdana, arial, helvetica
+}
+H5 {
+	FONT-SIZE: 11px; FONT-FAMILY: verdana, arial, helvetica
+}
+H6 {
+	FONT-SIZE: 10px; FONT-FAMILY: verdana, arial, helvetica
+}
+H7 {
+	FONT-SIZE: 10px; FONT-FAMILY: verdana, arial, helvetica
+}
+UL.wrs {
+	MARGIN-TOP: -5px; MARGIN-BOTTOM: -5px; MARGIN-LEFT: -20px; PADDING-TOP: 0px
+}
